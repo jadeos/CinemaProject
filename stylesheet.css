@@ -1,0 +1,82 @@
+body {
+	font-family: "Trebuchet MS",Arial;
+	font-size: 14px;
+	background-color: white;
+	color: #B9AA81;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: #DF0101;
+}
+
+input, textarea, select {
+	font-family:inherit;
+	font-size:inherit;
+	font-weight:inherit;
+}
+
+#signup_form {
+	margin-left: auto;
+	margin-right: auto;
+	width: 360px;
+	font-size: 16px;
+
+}
+
+#signup_form .heading {
+	text-align: center;
+	font-size: 22px;
+	font-weight: bold;
+	color: black;
+}
+
+#signup_form form {
+
+	background-color:#DF0101;
+	padding: 10px;
+	color: black;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+
+}
+
+#signup_form form label {
+	font-weight: bold;
+	color: white;
+}
+
+#signup_form form input[type=text],input[type=password] {
+	width: 316px;
+	font-weight: bold;
+	padding: 8px;
+	color: black;
+	border: 1px solid #FFF;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+
+#signup_form form input[type=submit] {
+	display: block;
+	margin: auto;
+	width: 200px;
+	font-size: 18px;
+	background-color: #FFF;
+	border: 1px solid #BBB;
+
+}
+
+#signup_form form input[type=submit]:hover {
+	border-color: #000;
+}
+
+#signup_form .error {
+	font-size: 13px;
+	color: black;
+	font-style: italic;
+}

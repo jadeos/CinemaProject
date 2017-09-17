@@ -1,0 +1,478 @@
+
+
+
+
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.container { margin-top: 100px;
+}
+
+
+body {
+
+
+    margin:0;
+    padding: 0;
+    position:relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+
+
+
+#main {
+    height:800px;
+
+    z-index:0;
+    margin-top:70px;
+    margin-left: 10px;
+    width:82%;
+
+
+
+}
+#main img{
+    z-index:0;
+    margin-top:0px;
+    margin-left:10px;
+    width:70%;
+    height:120%;
+
+
+
+}
+
+.Book{
+    margin-left:575px;
+    margin-top:0px;
+    height:50px;
+    width:20px;
+
+
+}
+
+#rightStuck{
+    margin-left:875px;
+    margin-top:0px;
+    padding-top:9px;
+    border:2px solid black;
+    width:250px;
+    height:1000px;
+    text-align:center;
+    color: black;
+    font-weight:bold;
+
+}
+#priceStuck{
+    margin-left:875px;
+    margin-top:-860px;
+    padding-top:9px;
+    border:2px solid black;
+    width:250px;
+    height:1000px;
+    text-align:center;
+    color: black;
+    font-weight:bold;
+
+}
+
+
+#header
+{
+    width:900px;
+    padding-left:50px;
+    padding-top:40px;
+    line-height:100px;
+    z-index:0;
+    color: #DF0101;
+    margin-top:-10px;
+    font-size: 29px;
+    font-family: fantasy;
+    margin-left: 10px;
+
+}
+
+#header h1{
+    margin-left:350px;
+    margin-top:-130px;
+
+
+
+
+}
+#header img{
+
+    border:2px solid black;
+    margin-top:-52px;
+    height:100px;
+    width: 100px;
+
+}
+#left{
+    margin-left:10px;
+    margin-top:-1000px;
+    padding-top:5px;
+    background-color:lightgrey;
+    width:250px;
+    height:1000px;
+    text-align:center;
+
+}
+
+#users {
+    padding-top: 10px;
+    height: 100px;
+    margin-top: -105px;
+    width: 500px;
+    margin-left: 700px;
+    text-align: center;
+    font-size: 12px;
+}
+
+#users img{
+
+    border:2px solid black;
+    height:70px;
+    margin-top: -50px;
+    font-size: 12px;
+}
+
+
+a {
+    color: blue;
+    font-size: 18px;
+}
+
+a:hover {
+    color: #DF0101;
+}
+
+
+h2 {
+    font-size: 18px;
+}
+
+
+#searchbar{
+
+    margin-left:240px;
+    margin-top:-130px;
+    color: black;
+}
+
+#searchbutton{
+    margin-top:-80px;
+
+}
+
+
+
+
+
+h2 {
+    margin-left: 30px;
+}
+.temp{
+    width:100px;
+    height:150px;
+    margin-top:70px;
+    border:2px solid black;
+
+}
+
+.listing{
+    width:200px;
+    height:120px;
+
+}
+.listing img {
+    border:2px solid black;
+    height:1px;
+    width:2px;
+    margin-left:200px;
+}
+
+.listing2 {
+    margin-top:-120px;
+    margin-left:200px;
+    width:200px;
+    height:120px;
+
+}
+
+.pixels{
+    width:200px;
+    height:80px;
+
+}
+.pixels img {
+    border:2px solid black;
+    height:100px;
+    width:150px;
+    margin-left:100px;
+    margin-top:-350px;
+}
+
+.pixels2 {
+    margin-top:-200px;
+    margin-left:100px;
+    width:200px;
+    height:120px;
+
+}
+.new{
+    width:200px;
+    height:80px;
+
+}
+.new img {
+    border:2px solid black;
+    height:100px;
+    width:150px;
+    margin-left:400px;
+    margin-top:-370px;
+}
+
+.new2 {
+    margin-top:-210px;
+    margin-left:400px;
+    width:200px;
+    height:120px;
+
+}
+.newmovie{
+    width:200px;
+    height:80px;
+
+}
+.newmovie img {
+    border:2px solid black;
+    height:100px;
+    width:150px;
+    margin-left:600px;
+    margin-top:-370px;
+}
+
+.newmovie2 {
+    margin-top:-210px;
+    margin-left:600px;
+    width:200px;
+    height:120px;
+
+}
+
+
+.newreleases {
+    margin-top:-210px;
+    margin-left:360px;
+    width:200px;
+    height:120px;
+
+}
+
+.mainevent {
+    margin-top:50px;
+    border-bottom:2px solid black;
+    height:180px;
+    width:700px;
+
+
+}
+
+#main {
+    margin-top: 100px;
+}
+
+#live{
+    margin-left:350px;
+    margin-top:-1000px;
+    width:400px;
+    height:300px;
+    border:2px solid black;
+
+}
+
+#textbox {
+    margin-left:50px;
+    margin-top:-250px;
+    border-top:2px;
+    position:absolute;
+}
+#textbox2 {
+    margin-left:50px;
+    margin-top:-200px;
+    border-top:2px;
+    position:absolute;
+}
+#textbox3 {
+    margin-left:38px;
+    margin-top:-150px;
+    border-top:2px;
+    position:absolute;
+}
+#textbox4 {
+    margin-left:-15px;
+    margin-top:-100px;
+    border-top:2px;
+    position:absolute;
+}
+#textbox5 {
+    margin-left:25px;
+    margin-top:-50px;
+    border-top:2px;
+    position:absolute;
+}
+
+#textbox6 {
+    margin-left:30px;
+    margin-top:-0px;
+    border-top:2px;
+    position:absolute;
+}
+
+#feed{
+    margin-left:900px;
+    margin-top:-820px;
+
+    width:300px;
+    height:200px;
+    border:2px solid black;
+
+}
+
+#footer {
+
+    margin-left: 20px;
+    text-align:center;
+    margin-right: 510px;
+    margin-top:200px;
+    height:100px;
+    border:2px;
+    border-top:2px solid black;
+    width:1115px;
+
+}
+
+
+
+
+#releases {
+
+    margin-left:350px;
+    margin-top:120px;
+
+
+
+}
+
+#news {
+    margin-left:20px;
+    margin-top:50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    font-family: "Trebuchet MS",Arial;
+    font-size: 14px;
+    background-color: white;
+    color: #B9AA81;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #DF0101;
+}
+
+input, textarea, select {
+    font-family:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+}
+
+#signup_form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 360px;
+    font-size: 16px;
+
+}
+
+#signup_form .heading {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
+
+#signup_form form {
+
+    background-color:#DF0101;
+    padding: 10px;
+    color: black;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+
+}
+
+#signup_form form label {
+    font-weight: bold;
+    color: white;
+}
+
+#signup_form form input[type=text],input[type=password] {
+    width: 316px;
+    font-weight: bold;
+    padding: 8px;
+    color: black;
+    border: 1px solid #FFF;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+
+#signup_form form input[type=submit] {
+    display: block;
+    margin: auto;
+    width: 200px;
+    font-size: 18px;
+    background-color: #FFF;
+    border: 1px solid #BBB;
+
+}
+
+#signup_form form input[type=submit]:hover {
+    border-color: #000;
+}
+
+#signup_form .error {
+    font-size: 13px;
+    color: black;
+    font-style: italic;
+}
